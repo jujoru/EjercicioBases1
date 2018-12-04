@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Usuario</string>
+    <string name="vacio"></string>
+    <string name="usuario">Usuario</string>
+    <string name="contraseña">Password</string>
+    <string name="login">Login</string>
+    <string name="titulo">16MSD-No se pudo iniciar la sesión</string>
+    <string name="mensaje">El login o el password que has introducido son incorrectos. Compruébalos y vuelve a intentarlo de nuevo.</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="id">16MSD</string>
+    <string name="msg">Ruta archivo BD: </string>
+    <string name="msg2">A BD NON SE VAI COPIAR. XA EXISTE</string>
+    <string name="msg3">Nombre usr: </string>
+    <string name="msg4">Nº filas: </string>
+    <string name="txt">BASE DE DATOS COPIADA</string>
+    <string name="txt2">Iniciando sesión.</string>
+    <string name="nombre">Diego Morandeira Seijas</string>
+    <string name="valorNombre">Nombre: </string>
+    <string name="valorLogin">16MSD-Login: </string>
+    <string name="valorPassword">Password: </string>
+    <string name="valorId">Id: </string>
+</resources>

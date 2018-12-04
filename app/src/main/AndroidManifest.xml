@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dam214.ejerciciobases1">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".EjercicioBases1">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".BusquedaVuelos" />
+        <activity android:name=".Diego_Morandeira_Seijas" />
+        <activity android:name=".Activity" />
+        <activity android:name=".NuevoUsuario"
+            android:parentActivityName="com.example.dam214.ejerciciobases1.EjercicioBases1"
+            >
+
+
+        </activity>
+    </application>
+
+</manifest>
